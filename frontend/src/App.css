@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+/* App.css or your custom CSS file */
+
+.App {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.content-wrap {
+  flex: 1;
+}
+
+/* Your other styles here */
+
